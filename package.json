@@ -1,0 +1,12 @@
+{
+  "name": "nodejsmasterclass",
+  "version": "1.0.0",
+  "description": "https://www.udemy.com/draft/1509620/learn/v4/content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
